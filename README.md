@@ -25,7 +25,6 @@ Dieses Projekt ist dual-lizenziert:
    - Kontakt: [deine E-Mail / Kontaktformular] für Lizenzanfragen.
 
 
-
 Fein. Hier kommt **eine neue, nicht-überlappende Liste** mit Tools, Services und Libraries (34 Einträge) — alles, was dir beim Prompt-basierten Aufbau von 3D-Assets, Welten, Rigging, Animation oder der Game/Film-Pipeline helfen kann. Keine Duplikate aus deiner vorherigen Liste. Kurz, knapp, direkt zu den Seiten.
 
 # Neue Liste (34)
