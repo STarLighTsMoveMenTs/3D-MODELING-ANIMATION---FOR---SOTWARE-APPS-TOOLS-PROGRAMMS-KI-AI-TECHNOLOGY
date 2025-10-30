@@ -13,6 +13,19 @@ Input für Hash: | Input String                   | SHA-256 Hash                
 
 CC BY-NC-ND (Attribution-NonCommercial-NoDerivatives)
 
+## Lizenzierung
+
+Dieses Projekt ist dual-lizenziert:
+
+1. **Öffentlich**: CC BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)  
+   - Für nicht-kommerzielle Nutzung, keine Änderungen erlaubt.
+
+2. **Team/Corporate**: Proprietäre Lizenz  
+   - Für interne, kommerzielle Nutzung durch Mitglieder und Partner.  
+   - Kontakt: [deine E-Mail / Kontaktformular] für Lizenzanfragen.
+
+
+
 Fein. Hier kommt **eine neue, nicht-überlappende Liste** mit Tools, Services und Libraries (34 Einträge) — alles, was dir beim Prompt-basierten Aufbau von 3D-Assets, Welten, Rigging, Animation oder der Game/Film-Pipeline helfen kann. Keine Duplikate aus deiner vorherigen Liste. Kurz, knapp, direkt zu den Seiten.
 
 # Neue Liste (34)
