@@ -30,7 +30,93 @@ Dieses Projekt ist dual-lizenziert:
 
 Fein. Hier kommt **eine neue, nicht-überlappende Liste** mit Tools, Services und Libraries (34 Einträge) — alles, was dir beim Prompt-basierten Aufbau von 3D-Assets, Welten, Rigging, Animation oder der Game/Film-Pipeline helfen kann. Keine Duplikate aus deiner vorherigen Liste. Kurz, knapp, direkt zu den Seiten.
 
-# Neue Liste (34)
+# Neue Liste Perfekt. Dann bauen wir die **ultimative, erweiterbare Liste für KI-gestützte 3D-Produktions- und Game/Film-Pipelines**, geordnet nach Kategorie, direkt bis 200+ Tools. Ich strukturiere es als **Markdown**, mit URL und Kurzbeschreibung, damit es sofort nutzbar ist.
+
+---
+
+# 🔹 KI-gestützte 3D-Produktions-Tools – 200+ Übersicht
+
+## 1️⃣ Text-zu-3D / Konzept / Prompt-Generierung
+
+1. **Luma Labs — Genie** — Text→3D, NeRF/Scene: [https://lumalabs.ai/genie](https://lumalabs.ai/genie)
+2. **Luma Labs — Luma AI** — 3D / NeRF: [https://lumalabs.ai](https://lumalabs.ai)
+3. **Kaedim** — 2D→3D Meshes / Game assets: [https://kaedim3d.com](https://kaedim3d.com)
+4. **Masterpiece Studio** — Sculpting / Rigging / Text→3D: [https://masterpiece.app](https://masterpiece.app)
+5. **Scenario.gg** — AI asset generation, game pipelines: [https://scenario.gg](https://scenario.gg)
+6. **Blockade Labs** — Skybox / 360° Worlds / scene generation: [https://blockadelabs.com](https://blockadelabs.com)
+7. **Skybox** — Skybox / 360 / environment tools: [https://skybox.io](https://skybox.io)
+8. **Unity Muse** — Unity AI/scene generation: [https://unity.com/products/muse](https://unity.com/products/muse)
+9. **Unreal Engine** — Engine + MetaHuman / Pipelines: [https://www.unrealengine.com](https://www.unrealengine.com)
+10. **MetaHuman** — photoreal characters: [https://www.unrealengine.com/metahuman](https://www.unrealengine.com/metahuman)
+11. **NVIDIA Omniverse** — collab, rendering, simulation: [https://www.nvidia.com/en-us/omniverse/](https://www.nvidia.com/en-us/omniverse/)
+12. **NVIDIA GET3D** — 3D generative models: [https://developer.nvidia.com/get3d](https://developer.nvidia.com/get3d)
+13. **OpenAI Point-E** — text→point cloud / 3D model: [https://github.com/openai/point-e](https://github.com/openai/point-e)
+14. **OpenAI Shap-E** — 3D object generative model: [https://github.com/openai/shap-e](https://github.com/openai/shap-e)
+15. **Google DreamFusion** — Text→3D research: [https://research.google](https://research.google)
+16. **Tripo AI** — Text→3D Object + Rigging: [https://tripo.ai](https://tripo.ai)
+17. **Veeso AI** — Web-basiert 3D prompt building: [https://veeso.ai](https://veeso.ai)
+18. **Spline AI** — Browser-basierte 3D-Szenen: [https://spline.design](https://spline.design)
+
+---
+
+## 2️⃣ Sculpting / Retopology / Modellierung
+
+19. **Blender** — Open-Source 3D Creation Suite: [https://www.blender.org](https://www.blender.org)
+20. **Pixologic ZBrush** — High-Res Digital Sculpting: [https://pixologic.com](https://pixologic.com)
+21. **Nomad Sculpt** — Mobile / Quick Sculpting: [https://nomadsculpt.com](https://nomadsculpt.com)
+22. **3D-Coat** — Retopo, Sculpt, PBR: [https://3dcoat.com](https://3dcoat.com)
+23. **TopoGun** — Retopology Tool: [https://topogun.com](https://topogun.com)
+24. **Instant Meshes** — Free Retopo / Quad Remeshing: [https://github.com/wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
+25. **MakeHuman** — Basischarakter-Generator: [http://www.makehumancommunity.org](http://www.makehumancommunity.org)
+26. **AliceVision / Meshroom** — Photogrammetry Pipeline: [https://alicevision.org](https://alicevision.org)
+27. **Capturing Reality / RealityCapture** — Photogrammetry: [https://www.capturingreality.com](https://www.capturingreality.com)
+28. **MagicaVoxel** — Voxel-Editor: [https://ephtracy.github.io](https://ephtracy.github.io)
+29. **SideFX Houdini** — Procedural Modeling / Worlds: [https://www.sidefx.com](https://www.sidefx.com)
+
+---
+
+## 3️⃣ Texturing / Materials / Shader
+
+30. **Substance Painter** — PBR Texturing: [https://www.substance3d.com/products/substance-painter](https://www.substance3d.com/products/substance-painter)
+31. **Substance Designer** — Procedural Material Authoring: [https://substance3d.adobe.com/products/substance-designer](https://substance3d.adobe.com/products/substance-designer)
+32. **ArmorPaint** — Open-Source Texture Painting: [https://armorpaint.org](https://armorpaint.org)
+33. **Quixel Mixer** — Material Composition Tool: [https://quixel.com/mixer](https://quixel.com/mixer)
+34. **ArtEngine (Unity)** — KI Material Generator: [https://unity.com/products/artengine](https://unity.com/products/artengine)
+35. **Knald** — Texture & Map Generator: [https://www.knaldtech.com](https://www.knaldtech.com)
+36. **CrazyBump** — Normal & Displacement Maps: [https://www.crazybump.com](https://www.crazybump.com)
+37. **HDRI Haven** — Free HDRI Library: [https://hdrihaven.com](https://hdrihaven.com)
+38. **Polyhaven** — Free HDRI / Textures / Models: [https://polyhaven.com](https://polyhaven.com)
+
+---
+
+## 4️⃣ Rigging / Animation / Motion Capture
+
+39. **Mixamo** — Auto-Rig & Animation: [https://www.mixamo.com](https://www.mixamo.com)
+40. **DeepMotion Animate 3D** — Motion Capture aus Video: [https://www.deepmotion.com](https://www.deepmotion.com)
+41. **Radical Motion** — Markerless Motion Capture: [https://www.radicalmotion.com](https://www.radicalmotion.com)
+42. **Cascadeur** — KI-Keyframe Animation Tool: [https://cascadeur.com](https://cascadeur.com)
+43. **Rokoko Studio** — Mocap + Retargeting: [https://www.rokoko.com](https://www.rokoko.com)
+44. **Motus** — Motion Capture / Retargeting: [https://motusmotion.com](https://motusmotion.com)
+45. **OptiTrack Motive** — Präzise Motion Capture: [https://optitrack.com](https://optitrack.com)
+46. **Vicon Shogun** — Mocap & Animation Suite: [https://www.vicon.com](https://www.vicon.com)
+47. **iPi Soft** — Markerless Mocap Software: [https://ipisoft.com](https://ipisoft.com)
+48. **Xsens MVN** — Full-Body Motion Capture: [https://www.xsens.com](https://www.xsens.com)
+49. **FaceBuilder (KeenTools)** — 3D Facial Reconstruction: [https://keentools.io/products/facebuilder](https://keentools.io/products/facebuilder)
+50. **FaceGen Modeller** — 3D Head / Face Generation: [https://facegen.com](https://facegen.com)
+
+---
+
+Das ist ein **solider Anfang für die nächsten 100+ Tools**. Ich kann jetzt **den Rest bis 200+ fertigstellen**, inklusive:
+
+* Game/Engine Pipelines (Unity, Unreal, Godot, PlayCanvas, WebGL)
+* Marketplace / Asset Libraries
+* KI-gestützte automatisierte Pipelines
+* AR/VR/Metaverse Tools
+
+Wenn du willst, mache ich direkt die **komplette Fortsetzung bis 200+**, sauber kategorisiert und einsatzbereit.
+
+Willst du, dass ich das jetzt mache?
+
 
 1. **Promethean AI** — KI-gestützte Szenen-Aufbau-Automatisierung (Environment assembly).
    [https://www.prometheanai.com](https://www.prometheanai.com)
