@@ -17,6 +17,150 @@ CC BY-NC-ND (Attribution-NonCommercial-NoDerivatives)
 
 ## Lizenzierung
 
+Alles klar. Ich mache dir ein **fertiges, deployment-ready Paket** für deinen Branch „EU-UNION-AI-PACT-patch-1“ auf GitHub. Es beinhaltet:
+
+1. **README.md** – klar strukturiert, dual‑Lizenz, Hash/Build-ID, Versionierung, Installation.
+2. **LICENSE_PUBLIC.md** – CC BY-NC-ND 4.0
+3. **LICENSE_TEAM.md** – Team/Corporate Proprietary License
+4. **Beispielhafte Hash/Build-ID-Datei** – automatische Versionskontrolle.
+
+---
+
+### **README.md**
+
+````markdown
+# 3D Modeling & Animation Framework — EU-UNION-AI-PACT
+
+**Version:** v1.0  
+**Build-ID / Hash (Timestamp 2025-10-30 03:33):** `e9be9a676f2904eb3c87ed4d86e91665b84adff41f4ba8be32c94cce6c9e9ad8`
+
+Dieses Projekt ist ein **automatisiertes KI-gestütztes 3D-Produktions-Framework** für interaktive Anwendungen, Animationen und Game-Modeling.  
+Es bietet:
+
+- Prompt-basierte Generierung von 2D/3D-Assets
+- Automatisierte Retopologie, Texturierung, Rigging und Animation
+- Integration in Engines wie Blender, Unreal Engine, Godot, WebGL
+- Steuerung über GUI, TUI und CLI
+- Automatisierung via Cronjobs, Scheduler oder CI/CD
+- Skalierbar für lokale Maschinen, HPC und Cloud-GPUs
+- Versions-Tracking über Hashcodes / Timestamps
+
+## Dual-Lizenzierung
+
+Dieses Projekt ist **dual-lizenziert**:
+
+1. **Öffentlich (CC BY-NC-ND 4.0)**  
+   - Namensnennung erforderlich  
+   - Nicht kommerziell  
+   - Keine Derivate erlaubt  
+   - Lizenzdetails: [LICENSE_PUBLIC.md](LICENSE_PUBLIC.md)
+
+2. **Team/Corporate License (Proprietär)**  
+   - Für interne und kommerzielle Nutzung durch Teammitglieder und Partner  
+   - Modifikationen und Integration in Projekte erlaubt  
+   - Kontakt für Lizenzanfragen: `deine-email@example.com`  
+   - Lizenzdetails: [LICENSE_TEAM.md](LICENSE_TEAM.md)
+
+## Installation & Nutzung
+
+```bash
+# Clone the repository
+git clone -b EU-UNION-AI-PACT-patch-1 https://github.com/STarLighTsMoveMenTs/3D-MODELING-ANIMATION---FOR---SOTWARE-APPS-TOOLS-PROGRAMMS-KI-AI-TECHNOLOGY.git
+cd 3D-MODELING-ANIMATION---FOR---SOTWARE-APPS-TOOLS-PROGRAMMS-KI-AI-TECHNOLOGY
+
+# Setup environment (Python example)
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+````
+
+## Versions- & Build-Kontrolle
+
+* Alle Versionen erhalten **eindeutige Hashcodes + Timestamp**, z. B.:
+
+```
+Flash3D_2025-10-30 03:33:00_v1 → e9be9a676f2904eb3c87ed4d86e91665b84adff41f4ba8be32c94cce6c9e9ad8
+Flash3D_2025-10-30 03:33:00_v2 → 848442fea908406bd0140d2072cec0425e80d85594f11058b4ad828d799144f8
+```
+
+* Nutze diese Hashes für Build-ID, Referenzen, CI/CD-Tracking oder Lizenzzuordnung.
+
+## Projektstatus
+
+* Branch `EU-UNION-AI-PACT-patch-1` enthält die aktuelle Entwicklungs- und Testversion
+* Stabiler Hauptbranch für öffentliche Nutzung unter CC BY-NC-ND
+* Team/Corporate Lizenzversion kann zusätzliche Funktionen, kommerzielle Erweiterungen und interne Integrationen enthalten
+
+## Kontakt
+
+Für **Team/Corporate Lizenz** oder Kooperationen:
+`deine-email@example.com`
+
+````
+
+---
+
+### **LICENSE_PUBLIC.md**
+```markdown
+# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+Dieses Werk ist lizenziert unter der Creative Commons Namensnennung-Nicht-kommerziell-KeineBearbeitungen 4.0 International Lizenz.
+
+**Du darfst:**
+- Das Werk teilen, kopieren und weiterverbreiten in jeglichem Medium oder Format
+
+**Unter folgenden Bedingungen:**
+- **Namensnennung** – Angabe des Urhebers und Lizenzlink, Hinweis auf Änderungen (falls vorhanden)  
+- **Nicht kommerziell** – Nutzung nur für nicht-kommerzielle Zwecke  
+- **Keine Bearbeitungen** – Keine Remixe, Modifikationen oder Derivate erlaubt  
+
+[Weitere Informationen](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+````
+
+---
+
+### **LICENSE_TEAM.md**
+
+```markdown
+# Team / Corporate License — Proprietary
+
+Dieses Werk unterliegt einer proprietären Lizenz für Teammitglieder und Partner der Organisation.
+
+**Lizenzrechte:**
+- Vervielfältigung, Verbreitung und Modifikation innerhalb des Teams oder autorisierter Partner  
+- Kommerzielle Nutzung innerhalb der autorisierten Organisationen  
+- Integration in interne Projekte, Software-Tools oder kommerzielle Produkte
+
+**Einschränkungen:**
+- Weitergabe an Dritte ohne schriftliche Genehmigung des Lizenzgebers ist untersagt  
+- Nutzung für externe kommerzielle Produkte außerhalb autorisierter Partner bedarf expliziter Lizenzvereinbarung  
+- Alle Rechte verbleiben beim Urheber / Lizenzgeber
+
+**Kontakt für Lizenzanfragen / Partnerschaften:**  
+`deine-email@example.com`
+```
+
+---
+
+### **versions.txt** (Beispiel für Hash / Build-ID Tracking)
+
+```text
+# Flash3D 3D Production Framework
+# Build-ID / Timestamp Reference
+Flash3D_2025-10-30_03:33_v1 → e9be9a676f2904eb3c87ed4d86e91665b84adff41f4ba8be32c94cce6c9e9ad8
+Flash3D_2025-10-30_03:33_v2 → 848442fea908406bd0140d2072cec0425e80d85594f11058b4ad828d799144f8
+Flash3D_2025-10-30_03:33_v3 → bb0f4d95f25dcf5c6f7e489525c056ffef68291a8ba7ea92ee4043071a745a47
+Flash3D_2025-10-30_03:33_v4 → 0a46282418b5d3ddf499ac5b5a0d9f4d1a867a7d01d64c70714dfe1fd27246a1
+Flash3D_2025-10-30_03:33_v5 → 69127bba0b34bed1c7e6e32641837e6acffca1d3840128f85455e7ced968357a
+```
+
+---
+
+* ✅ Branch „EU-UNION-AI-PACT-patch-1“ ready
+* ✅ Dual-Lizenz: öffentlich & Team/Corporate
+* ✅ Hash/Build-ID für Versionskontrolle
+* ✅ Installations- und Nutzungshinweise
+
 Dieses Projekt ist dual-lizenziert:
 
 1. **Öffentlich**: CC BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)  
