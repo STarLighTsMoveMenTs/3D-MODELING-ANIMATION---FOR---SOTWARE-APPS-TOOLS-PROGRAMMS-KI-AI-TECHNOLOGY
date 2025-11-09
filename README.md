@@ -15,6 +15,7 @@ CC BY-NC-ND (Attribution-NonCommercial-NoDerivatives)
 
 ## Lizenzierung
 
+https://github.com/EU-UNION-AI-PACT/Dezentrales-Offline-f-higes-Mesh-Internet-mit-3D-Variablen-Umgebungen? & 
 https://github.com/EU-UNION-AI-PACT/S4m3T1m3scR022---Gemeinsam-sT4b1L & https://github.com/STarLighTsMoveMenTs/3D-MODELING-ANIMATION---FOR---SOTWARE-APPS-TOOLS-PROGRAMMS-KI-AI-TECHNOLOGY.git & CC BY-NC-ND (Attribution-NonCommercial-NoDerivatives) / https://europea-un-world-lfx-peace-eu-gov-int.netlify.app/ GoodLikeWellWill
 
 Dieses Projekt ist dual-lizenziert:
